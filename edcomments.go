@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/AndresED/apiTopuur/migration"
+	"github.com/AndresED/api/migration"
 )
 
 func main() {
